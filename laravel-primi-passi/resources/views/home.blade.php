@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Hello World
                 </div>
 
                 <div class="links">
@@ -98,3 +98,9 @@
         </div>
     </body>
 </html>
+
+<!-- A questo punto, iniziamo a prendere confidenza con le rotte e le views:
+cancelliamo la view welcome.blade.php e creiamo una nostra homepage.
+Facciamo quindi sì che la rotta / visualizzi home.blade.php stampiamo un
+Hello World.
+Bonus: Creiamo più di una pagina e visualizziamo un header menu con i link alle pagine. -->

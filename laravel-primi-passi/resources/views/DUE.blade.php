@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Laravel</title>
+        <title>DUE</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -81,15 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hello World
+                    DUE
                 </div>
 
                 <div class="links">
-                    <a href="/UNO">UNO</a>
-                    <a href="/DUE">DUE</a>
-                    <a href="/TRE">TRE</a>
-                    <a href="/QUATTRO">QUATTRO</a>
-                    <a href="/CINQUE">CINQUE</a>
+                    <a href="/">HOME</a>
                 </div>
             </div>
         </div>

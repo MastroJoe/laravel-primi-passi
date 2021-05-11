@@ -16,3 +16,24 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('home');
 });
+
+// links menu
+Route::get('/UNO', function () {
+    return view('UNO');
+});
+
+Route::get('/DUE', function () {
+    return view('DUE');
+});
+
+Route::get('/TRE', function () {
+    return view('TRE');
+});
+
+Route::get('/QUATTRO', function () {
+    return view('QUATTRO');
+});
+
+Route::get('/CINQUE', function () {
+    return view('CINQUE');
+});
